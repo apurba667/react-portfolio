@@ -7,11 +7,9 @@ export default function Topbar({menuOpen,setMenuOpen}) {
         <div className="left">
           <a href="#intro">Apurba.</a>
           <div className="itenContainer">
-          
-          <span>+8801714345878</span>
+          <span> +8801714345878</span>
         </div>
         <div className="itenContainer">
-          
           <span>apurbaanikroy@gmail.com</span>
         </div>
         </div>
